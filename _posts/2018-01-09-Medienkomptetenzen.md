@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2_Medienkompetenzen
-tags: Home 
+tags: Start
 ---
 
 ## Medienkompetenzen
