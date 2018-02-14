@@ -1,11 +1,11 @@
 Start:
-  name: Start
+  name: 1_Start
 
 Konzept:
-  name: Konzept
+  name: 2_Konzept
 
 Arbeiten:
-  name: Arbeiten
+  name: 3_Arbeiten
 
 Zukunft:
-  name: Zukunft
+  name: 4_Zukunft
