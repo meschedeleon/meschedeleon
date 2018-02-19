@@ -1,4 +1,4 @@
- ---
+---
 layout: default
 title: "3_Neue Geräte"
 tags: Konzept
