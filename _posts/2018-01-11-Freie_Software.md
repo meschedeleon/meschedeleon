@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4_Open_Source
+title: 4_Freie_Software
 tags: Konzept
 ---
 
