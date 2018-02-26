@@ -4,7 +4,7 @@ title: 4_Open_Source
 tags: Konzept
 ---
 
-## Medienkompetenzen
+# Freie Software
+Die Geräte stellen die Plattform dar, auf der eigene Projekte umgesetzt werden können. Um diese jedoch zu realisieren sind zusätzlich noch Werkzeuge in Form von Programmen oder Algorithmen nötig. Im kreativen Bereich steht für Viele die Softwaresuite von Adobe für Selbstverständlich. Auf ihrem Gebiet ist die Adobe Suit umfangs- und funktionstechnisch von keiner Alternative zu überbieten. Doch das Problem, gerade für Anwender im privaten Bereich ist der Preis ein Hindernis für den Einstieg.
 
-Die einzigartige Eigenschaft der ersten digital natives Generationen ist, dass ihren Eltern und Mentoren diese Medien zumindest auf ihre Art und Weise unbekannt sind. Zwar bilden sich viele auf den Gebieten der Digitalisierung weiter, jedoch erhalten sie meist nie den Zugang den die digital natives im Prinzip seit ihrer Geburt pflegen. Somit ist diese Generation auf den autodidaktischen Lernprozess während des Benutzens dieser Medien angewiesen.
 
